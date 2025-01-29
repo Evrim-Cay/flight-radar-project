@@ -1,18 +1,16 @@
-# React + Vite
+✨ Proje Hakkında
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Flight Radar, gerçek zamanlı olarak hava trafiğini izleyen bir uygulamadır. Uçakların konumunu, hızını, rotasını ve diğer detayları API verileriyle görüntüleyebilirsiniz.
 
-Currently, two official plugins are available:
+📝 Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌍 Gerçek zamanlı uçuş takibi
 
+✈ Uçak bilgilerini detaylı görüntüleme
 
-@splidejs/react-splide
-@reduxjs/toolkit
-react-redux
-react-router-dom
-react-leaflet
-leaflet
-bootstrap
-axios
+🌐 Harita entegrasyonu (Leaflet.js, Google Maps API)
+
+💡 Kullanıcı dostu arayüz
+
+💾 Verileri kaydetme ve analiz etme
+
