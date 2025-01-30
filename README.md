@@ -14,3 +14,4 @@ Flight Radar, gerçek zamanlı olarak hava trafiğini izleyen bir uygulamadır. 
 
 💾 Verileri kaydetme ve analiz etme
 
+![Image](https://github.com/user-attachments/assets/2183ab6e-1db7-484d-84dc-635b3df5631f)
